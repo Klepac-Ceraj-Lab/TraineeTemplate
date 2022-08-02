@@ -4,7 +4,7 @@ Adapted from the [VKCLab template](https://github.com/Klepac-Ceraj-Lab/TraineeTe
 
 ## Contents
 
-- [Weekly meeting notes](./WeeklyMeetings/)
+- [Periodic meeting notes](./PeriodicMeetings/)
 - [Project(s)](./Projects/)
 - [Individual Development Plan](./IDP/)
 
